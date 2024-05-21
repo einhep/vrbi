@@ -2,7 +2,6 @@
 
 import log
 
-
 def feet_to_meters(feet):
     """Convert feet to meters."""
     try:
